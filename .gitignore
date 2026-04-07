@@ -1,8 +1,8 @@
 # Dataset (too large for GitHub)
 Final-Project/dataset/
 
-# Model weights
-*.pth
+# Model weights (large models excluded, resnet18 is small enough)
+# *.pth
 
 # macOS
 .DS_Store
